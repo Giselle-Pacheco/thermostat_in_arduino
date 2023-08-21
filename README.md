@@ -1,3 +1,3 @@
-# Detection of persons in a campus field.
+# Creating an electronic thermostat with Arduino MEGA.
 
-In this repository we will be detecting a person walking in a field by using Computer Vision methods.
+In this repository we will build and program a thermostat with the help of an arduino MEGA.
